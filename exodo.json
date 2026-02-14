@@ -1,33 +1,32 @@
 {
-  "livro": "Êxodo",
-  "capitulos": {
+  "Êxodo": {
     "1": {
       "titulo": "Capítulo 1",
       "versiculos": [
-    "Estes são os nomes dos filhos de Israel que entraram no Egito com Jacó; cada um entrou com sua família:",
-    "Rúben, Simeão, Levi e Judá;",
-    "Issacar, Zebulom e Benjamim;",
-    "Dã e Naftali, Gade e Aser.",
-    "Todas as pessoas que procederam de Jacó foram setenta ao todo; José, porém, já estava no Egito.",
-    "Depois que José faleceu, assim como todos os seus irmãos e toda aquela geração,",
-    "os filhos de Israel frutificaram, multiplicaram-se e tornaram-se muito numerosos e fortes, de modo que a terra se encheu deles.",
-    "Então levantou-se um novo rei sobre o Egito, que não conhecia José.",
-    "Ele disse ao seu povo: Eis que o povo dos filhos de Israel é numeroso e mais forte do que nós.",
-    "Venham, sejamos prudentes com eles, para que não se multipliquem ainda mais; e, se houver guerra, não se juntem aos nossos inimigos, lutem contra nós e saiam da terra.",
-    "Então colocaram sobre eles chefes de trabalhos forçados para os oprimir com cargas pesadas. E edificaram para Faraó as cidades-celeiros de Pitom e Ramessés.",
-    "Mas quanto mais os oprimiam, tanto mais eles se multiplicavam e cresciam; por isso, os egípcios começaram a temer os filhos de Israel.",
-    "E os egípcios impuseram aos filhos de Israel dura servidão.",
-    "Tornaram a vida deles amarga com trabalhos pesados em barro e tijolos, e com todo tipo de trabalho no campo; em tudo eram tratados com rigor.",
-    "Além disso, o rei do Egito falou às parteiras das hebreias (uma se chamava Sifrá e a outra Puá),",
-    "e disse: Quando ajudarem as hebreias no parto e observarem o recém-nascido, se for menino, matem-no; se for menina, deixem-na viver.",
-    "As parteiras, porém, temeram a Deus e não fizeram como o rei do Egito lhes ordenara; antes, deixaram os meninos viver.",
-    "Então o rei do Egito chamou as parteiras e perguntou: Por que fizeram isso e deixaram os meninos viver?",
-    "Elas responderam a Faraó: As mulheres hebreias não são como as egípcias; são fortes e dão à luz antes que a parteira chegue.",
-    "Assim Deus abençoou as parteiras; o povo continuou a multiplicar-se e tornou-se muito forte.",
-    "E porque as parteiras temeram a Deus, Ele lhes concedeu famílias.",
-    "Então Faraó ordenou a todo o seu povo: Lancem no rio todo menino que nascer, mas deixem viver todas as meninas."
-  ]
-}
+        "Estes são os nomes dos filhos de Israel que entraram no Egito com Jacó; cada um entrou com sua família:",
+        "Rúben, Simeão, Levi e Judá;",
+        "Issacar, Zebulom e Benjamim;",
+        "Dã e Naftali, Gade e Aser.",
+        "Todas as pessoas que procederam de Jacó foram setenta ao todo; José, porém, já estava no Egito.",
+        "Depois que José faleceu, assim como todos os seus irmãos e toda aquela geração,",
+        "os filhos de Israel frutificaram, multiplicaram-se e tornaram-se muito numerosos e fortes, de modo que a terra se encheu deles.",
+        "Então levantou-se um novo rei sobre o Egito, que não conhecia José.",
+        "Ele disse ao seu povo: Eis que o povo dos filhos de Israel é numeroso e mais forte do que nós.",
+        "Venham, sejamos prudentes com eles, para que não se multipliquem ainda mais; e, se houver guerra, não se juntem aos nossos inimigos, lutem contra nós e saiam da terra.",
+        "Então colocaram sobre eles chefes de trabalhos forçados para os oprimir com cargas pesadas. E edificaram para Faraó as cidades-celeiros de Pitom e Ramessés.",
+        "Mas quanto mais os oprimiam, tanto mais eles se multiplicavam e cresciam; por isso, os egípcios começaram a temer os filhos de Israel.",
+        "E os egípcios impuseram aos filhos de Israel dura servidão.",
+        "Tornaram a vida deles amarga com trabalhos pesados em barro e tijolos, e com todo tipo de trabalho no campo; em tudo eram tratados com rigor.",
+        "Além disso, o rei do Egito falou às parteiras das hebreias (uma se chamava Sifrá e a outra Puá),",
+        "e disse: Quando ajudarem as hebreias no parto e observarem o recém-nascido, se for menino, matem-no; se for menina, deixem-na viver.",
+        "As parteiras, porém, temeram a Deus e não fizeram como o rei do Egito lhes ordenara; antes, deixaram os meninos viver.",
+        "Então o rei do Egito chamou as parteiras e perguntou: Por que fizeram isso e deixaram os meninos viver?",
+        "Elas responderam a Faraó: As mulheres hebreias não são como as egípcias; são fortes e dão à luz antes que a parteira chegue.",
+        "Assim Deus abençoou as parteiras; o povo continuou a multiplicar-se e tornou-se muito forte.",
+        "E porque as parteiras temeram a Deus, Ele lhes concedeu famílias.",
+        "Então Faraó ordenou a todo o seu povo: Lancem no rio todo menino que nascer, mas deixem viver todas as meninas."
+      ]
+    }
     "2": {
       "titulo": "Capítulo 2",
       "versiculos": [
@@ -1416,6 +1415,7 @@
     }
   }
 }
+
 
 
 
