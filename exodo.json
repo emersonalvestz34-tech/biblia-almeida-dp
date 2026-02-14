@@ -1,8 +1,7 @@
 {
   "livro": "Êxodo",
   "capitulos": {
-    "1": {
-      {
+    "1": 
   "titulo": "Capítulo 1",
   "versiculos": [
     "Estes são os nomes dos filhos de Israel que entraram no Egito com Jacó; cada um entrou com sua família:",
@@ -1417,5 +1416,6 @@
     }
   }
 }
+
 
 
